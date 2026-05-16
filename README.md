@@ -1,6 +1,6 @@
 # Hi, I'm Roy Raju 👋
 
-Senior Software Developer with 8+ years of experience in backend and full-stack development, specializing in scalable web applications, e-commerce platforms, and enterprise solutions.
+Senior Software Developer with 9+ years of experience in backend and full-stack development, specializing in scalable web applications, e-commerce platforms, and enterprise solutions.
 
 📍 Doha, Qatar  
 📧 royrajukuzhivila@gmail.com  
@@ -14,6 +14,7 @@ Results-driven Software Developer experienced in designing, developing, and main
 
 Experienced in:
 - Backend Development
+- Database Design
 - Microservices Architecture
 - Cloud & DevOps
 - E-commerce Systems
@@ -31,6 +32,9 @@ Experienced in:
 - PHP
 - Python
 - TypeScript
+- Java
+- Codeigniter
+- Laravel
 
 ### Frontend
 - React
