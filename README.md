@@ -160,7 +160,7 @@ Mar Thoma College of Science & Technology
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/royrajukuzhivila-boop/royraju.github.io
 - LinkedIn: Add your LinkedIn link
 - Email: royrajukuzhivila@gmail.com
 
